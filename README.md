@@ -1,3 +1,4 @@
+<img width="1450" height="721" alt="Sales and Profit Dashboard" src="https://github.com/user-attachments/assets/6ac1c83d-a877-4782-9dc3-fb927f3fa75b" />
 # Sales-Profit
 I recently developed a comprehensive analytics tool to transform complex sales data into actionable insights. By leveraging advanced Excel techniques—from Pivot Table engines to interactive Slicers—I’ve created a roadmap for growth and operational efficiency.
 To create the Sales and Profit Dashboard shown in the video using Microsoft Excel, a multi-step data processing and visualization workflow was executed.
